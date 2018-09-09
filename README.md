@@ -4,7 +4,9 @@ I am going to fallow a book JAVASCRIPTINF.INF by Ilya Kantor, and coding and upl
 
 # Content at glance
 
-1. [ES Lint](https://github.com/vnikifirov/DotNet/tree/master/ESLint)
+1. [Hello JS](https://github.com/vnikifirov/JavaScriptInf/tree/master/HelloJS)
+
+2. [ES Lint](https://github.com/vnikifirov/JavaScriptInf/tree/master/ESLint)
 
 # Resources
 
