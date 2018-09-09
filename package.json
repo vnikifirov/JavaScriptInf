@@ -1,0 +1,22 @@
+{
+  "name": "javascriptinf.inf",
+  "version": "1.0.0",
+  "description": "I am going to fallow a book JAVASCRIPTINF.INF by Ilya Kantor, and coding and uploading code while i will be reading.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnikifirov/JavaScriptInf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnikifirov/JavaScriptInf/issues"
+  },
+  "homepage": "https://github.com/vnikifirov/JavaScriptInf#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
